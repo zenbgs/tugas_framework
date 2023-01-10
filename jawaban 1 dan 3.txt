@@ -1,0 +1,3 @@
+1. REST API adalah salah satu desain didalam API itu sendiri, dan cara kerja rest akan melakukan akses pada resource pada REST server dimana masing masing resource, jadi data yg diberikan oleh REST server bisa berupa format text, JSON, XML.
+3. HEADLESS ARCHITECTURE adalah pengembangan software yg memisahkan lapisan frontend dan lapisan backend.
+kelebihan HEADLESS ARCHITECTURE untuk memilih cara terbaik untuk membangun lapisan frontend dan memiliki kelincahana fleksibilitas untuk menghadapai pasar eCommerce yg sangat kompetitif
